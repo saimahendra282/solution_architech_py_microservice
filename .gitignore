@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# macOS junk
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Coverage / testing
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+.cache
+pytest_cache/
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Local database / sensitive files
+*.sqlite3
+*.db
+.env.local
+
+# Node or frontend (if full-stack)
+node_modules/
+dist/
+frontend/dist/
+frontend/node_modules/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
